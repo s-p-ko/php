@@ -4,11 +4,11 @@
 
 ## 2. Implementing the concept of multiple exceptions - [github](https://github.com/s-p-ko/multiexception)
 
-## 3. Creating online store during the online course by [Victor Zinchenko] PHP PRACTICE: "CREATING ONLINE STORE" - [github](https://github.com/s-p-ko/shop.loc)
+## 3. Online store created during the online course by [Victor Zinchenko] PHP PRACTICE: "CREATING ONLINE STORE" - [github](https://github.com/s-p-ko/shop.loc)
 
-## 4. Creating online store of mobile phones on cms OpenCart - [github](https://github.com/s-p-ko/opencart.loc)
+## 4. Online store of mobile phones on cms OpenCart - [github](https://github.com/s-p-ko/opencart.loc)
 
-## 5. Creating online store in a procedural style on php according to the course [Dmitry Afanasyev, PHP Expert] - [github](https://github.com/s-p-ko/shop)
+## 5. Online store created during the online course by [Dmitry Afanasyev, PHP Expert] in a procedural style on php - [github](https://github.com/s-p-ko/shop)
 
 ---
 
